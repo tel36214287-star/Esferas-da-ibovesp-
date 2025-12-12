@@ -1,0 +1,5 @@
+{
+  "name": "MarketBubbles Physics",
+  "description": "Real-time stock market visualization using physics-based bubbles and Gemini Google Search grounding.",
+  "requestFramePermissions": []
+}
